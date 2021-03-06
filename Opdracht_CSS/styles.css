@@ -1,0 +1,13 @@
+body{
+    color: #8b008b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.4em;
+}
+.black-border {
+    border: 8px solid black;
+}
+#peach-background {
+    background-color: peachpuff;
+}
